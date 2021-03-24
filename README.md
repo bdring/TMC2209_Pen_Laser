@@ -1,5 +1,7 @@
 # TMC2209 Pen Laser
 
+<img src="https://github.com/bdring/TMC2209_Pen_Laser/blob/main/images/TMC2209_Pen_Laser_mod.jpg" width="600">
+
 This is a pen plotter controller that uses the ESP32 microcontroller and TMC2209 stepper motors drivers. The ESP32 runs [Grbl_ESP32 firmware](https://github.com/bdring/Grbl_Esp32) which allows you to run your machine wirelessly from your phone or PC via Bluetooth or Wifi. You can also stream via USB or micro SD card. The TMC2209 stepper drivers run your stepper motors super quietly and you can completely configure them via software (no more pots and jumpers).
 
 Features
@@ -21,5 +23,5 @@ Features
 - (1) Fan connector
 - (1) Micro SD socket.
 
-
+<img src="https://github.com/bdring/TMC2209_Pen_Laser/blob/main/images/TMC2209_Pen_Laser.jpg" width="600">
 
